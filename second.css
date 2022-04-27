@@ -96,7 +96,7 @@ header{
     padding: 0 2rem;
 }
 .bali{
-    background-image: url("./bali.jpg");
+    background-image: url("./images/bali.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -118,7 +118,7 @@ header{
     padding: 0 2rem;
 }
 .veitnam{
-    background-image: url("./vietnam.jpg");
+    background-image: url("./images/vietnam.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -140,7 +140,7 @@ header{
     padding: 0 2rem;
 }
 .maldives{
-    background-image: url("./maldives.jpg");
+    background-image: url("./images/maldives.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
